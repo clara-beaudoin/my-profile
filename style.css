@@ -37,6 +37,17 @@ img {
   width: 700px;
   margin:30px auto;
 }
+@media (max-width:760px){
+  .container{
+    width: 600px;
+  }
+}
+
+@media (max-width:600px){
+  .container{
+    width: 500px;
+  }
+}
 
 .card-white {
   background-color:white;
